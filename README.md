@@ -32,6 +32,17 @@ To master data storytelling through insightful and interactive Power BI dashboar
 - Use of filters and slicers for interactivity
 - Business storytelling with visuals
 - KPI and trend analysis
+- 
+- ## SQL Queries Used:
+The file `SqlQuery_Document.docx` contains SQL queries written to:
+
+- Extract sales by category, region, and outlet
+- Aggregate KPIs like average rating and item counts
+- Join tables and filter based on outlet types or size
+- Simulate real-time backend analysis before dashboarding
+
+This step adds real-world value by showing how data was prepared before visualizing.
+
 
 ## Outcome:
 This dashboard helps stakeholders understand key sales drivers across outlet types, item types, and regions to make strategic retail decisions.
